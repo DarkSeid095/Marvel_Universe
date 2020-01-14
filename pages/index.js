@@ -1,7 +1,7 @@
 import React from "react";
 
 function index() {
-  return <div>This is a test page!</div>;
+  return <div></div>;
 }
 
 export default index;

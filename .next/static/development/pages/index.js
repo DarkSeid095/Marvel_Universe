@@ -56,7 +56,7 @@ function index() {
       lineNumber: 4
     },
     __self: this
-  }, "This is a test page!");
+  });
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (index);
