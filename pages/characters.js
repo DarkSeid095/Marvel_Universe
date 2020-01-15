@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from "react";
 import { Row, InputGroup, FormControl } from "react-bootstrap";
+import Head from "next/head";
 
 import getCharacters from "../utils/getCharacters";
 import DisplayCard from "../components/Displaycard";
@@ -68,6 +69,9 @@ class characters extends Component {
   render() {
     return (
       <Fragment>
+        <Head>
+          <link src="/static/characters.css" rel="stylesheet" />
+        </Head>
         <Row className="row">
           <div className="searchBar">
             <InputGroup size="lg" className="mb-3">

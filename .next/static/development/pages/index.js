@@ -63,7 +63,7 @@ function index() {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!**********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fhimanshu%2FDesktop%2FMarvel_Universe%2Fpages%2Findex.js ***!
   \**********************************************************************************************************************************/
@@ -86,5 +86,5 @@ module.exports = dll_ea92a4d9664833a26066;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
